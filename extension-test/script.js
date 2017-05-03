@@ -8,7 +8,7 @@ function fadeOutRedirect(type){
 			}else if(type == "spinning"){
 				document.location.href = "https://support.grammarly.com/hc/en-us/articles/115000090492";
 			}else{
-				document.location.href = "https://support.grammarly.com/hc/en-us/articles/114094215872";
+				document.location.href = "https://support.grammarly.com/hc/en-us/articles/115000090372";
 			}
 		});
 	});	
